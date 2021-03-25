@@ -1,0 +1,422 @@
+[
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 1,
+    "scheduleItem": "GS1 1",
+    "title": "MAIL: UNDELIVERABLE/RETURNED",
+    "description": "This record series consists of outgoing agency mail returned by the post office for any reason, including insufficient postage, incorrect address, forwarding order expired, etc., or abandoned at a mail/document pickup station by a defunct addressee. It does NOT include returned registered or certified mailings. NOTE: In instances when there is a legal need to demonstrate that a mailing was sent to a particular address, agencies are responsible for ensuring that internal management policies are in place for retaining undeliverable/returned mail for as long as legally necessary. See also “MAIL: REGISTERED AND CERTIFIED,” “MAILING/CONTACT LISTS,” and “POSTAGE/SHIPPING RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "9d4026e5-f164-4ae3-930d-35171a5d2ec0"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 2,
+    "scheduleItem": "GS1 2",
+    "title": "ADMINISTRATIVE CONVENIENCE RECORDS",
+    "description": "This record series consists of DUPLICATES of public records maintained for the convenience of officials and employees in carrying out their duties. These records are NOT the official file or record (master) copy. Do NOT use this item if records fall under a more appropriate retention schedule item.",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "98e337c9-c1c5-4970-8676-d41ed9b49e27"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 3,
+    "scheduleItem": "GS1 3",
+    "title": "ADMINISTRATIVE SUPPORT RECORDS",
+    "description": "This record series consists of records relating to internal administrative activities rather than the functions for which the office exists. These records document day-to-day office management and do not serve as official documentation of office programs. Examples are an individual’s daily activity tracking log used to compile periodic activity reports; sign-up sheets for staff use of office equipment or facilities (e.g., reserving a meeting room); and records documenting operating and use of an internal staff library. Do NOT use this item if records fall under a more appropriate retention schedule item or if the unique content/requirements of the records necessitate that an individual retention schedule be established. For instance, use Budget Records: Supporting Documents for budget work papers, or use Purchasing Records for records relating to purchase of office supplies; etc.",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "a18937f1-198a-42a5-8452-f79f124f228f"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 4,
+    "scheduleItem": "GS1 4",
+    "title": "MINUTES: OFFICIAL MEETINGS (PRELIMINARY/AUDIO RECORDINGS/VIDEO RECORDINGS)",
+    "description": "This record series consists of handwritten or typed notes and/or audio and/or video recordings of official meetings as defined in Section 286.011(1), Florida Statutes, Public meetings and records. See also “MINUTES: OFFICIAL MEETINGS,” “MINUTES: OFFICIAL MEETINGS (SPECIAL DISTRICTS/AGENCY SUPPORT ORGANIZATIONS/NON-POLICY ADVISORY BOARDS)” and “MINUTES: OFFICIAL MEETINGS (SUPPORTING DOCUMENTS).”",
+    "recordCopyAuthorizedToDestroyNote": "2 anniversary years after adoption of the official minutes or certification of transcript.",
+    "recordCopyLifeSpan": null,
+    "id": "ee0aee91-6a42-48c0-98f3-dc483d22a757"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 8,
+    "scheduleItem": "GS1 8",
+    "title": "AUDITS: AUDITOR GENERAL",
+    "description": "This record series consists of reports issued by the Auditor General to establish the position of the audited agencies against their performance standards. These records are created pursuant to Section 11.45, Florida Statutes, Definitions; duties; authorities; reports; rules. See also “AUDITS: INDEPENDENT,” “AUDITS: INTERNAL,” “AUDITS: STATE/FEDERAL,” and “AUDITS: SUPPORTING DOCUMENTS.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "10 fiscal years after audit report release date. State agencies must contact the State Archives of Florida for archival review before disposition of records. Other agencies should ensure appropriate preservation of records determined to have long-term historical value.",
+    "recordCopyLifeSpan": 10,
+    "id": "0d06da0f-1b0b-4915-8b26-3ce5a557b7d2"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 11,
+    "scheduleItem": "GS1 11",
+    "title": "CABINET AFFAIRS FILES",
+    "description": "This record series consists of the Cabinet agendas, minutes, backup materials, and other information received from any office on all subject matters relating to a Cabinet agenda item or a potential agenda item. The State of Florida’s record copy is held by the Executive Office of the Governor until transferred to the State Archives of Florida. See also “MINUTES: OFFICIAL MEETINGS,” “MINUTES: OFFICIAL MEETINGS (PRELIMINARY/AUDIO RECORDINGS/VIDEO RECORDINGS),” and “MINUTES: OFFICIAL MEETINGS (SUPPORTING DOCUMENTS).”",
+    "recordCopyAuthorizedToDestroyNote": "Permanent. Contact the State Archives of Florida for transfer to Archives after 5 years.",
+    "recordCopyLifeSpan": null,
+    "id": "566b31e2-09b6-4363-8e76-3b091e310484"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 17,
+    "scheduleItem": "GS1 17",
+    "title": "CORRESPONDENCE AND MEMORANDA: ADMINISTRATIVE",
+    "description": "This record series consists of correspondence and memoranda of a general nature that are associated with administrative practices or routine office activities and issues but that do not create policy or procedure, document the business of a particular program, or act as a receipt. See also “CORRESPONDENCE AND MEMORANDA: PROGRAM AND POLICY DEVELOPMENT,” ”DIRECTIVES/POLICIES/PROCEDURES,” and “INFORMATION REQUEST RECORDS.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "3 fiscal years. State agencies must contact the State Archives of Florida for archival review before disposition of records. Other agencies should ensure appropriate preservation of records determined to have long-term historical value.",
+    "recordCopyLifeSpan": 3,
+    "id": "95d93363-6fc6-477d-b32c-aadfcd25a592"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 19,
+    "scheduleItem": "GS1 19",
+    "title": "PERSONNEL RECORDS: FLORIDA RETIREMENT SYSTEM",
+    "description": "This record series consists of all personnel information relating to each employee participating in the Florida Retirement System (FRS). The series may include, but is not limited to, employment applications, résumés, personnel action reports, correspondence, oaths of loyalty, fingerprints, job-related medical examination reports, performance evaluation reports, workers’ compensation reports, copies of I-9 forms (Department of Homeland Security, U.S. Citizenship and Immigration Services, Employment Eligibility Verification form), benefits records, work schedules/assignments, training records, emergency contact information, and other related materials. Section 110.201, Florida Statutes, Personnel rules, records, and reports, and Rule 60L-30, Florida Administrative Code, Personnel Programs and Records, require state agency personnel officers to institute uniform personnel rules and procedures and to determine what records are to be filed in their agency’s official personnel files. Agencies should ensure that any records needed beyond the stated retention to calculate post-employment benefits are retained. See also “DRUG TEST CASE FILES,” “EMPLOYMENT APPLICATION AND SELECTION RECORDS,” “EMPLOYMENT ELIGIBILITY VERIFICATION FORMS,” “STAFF ADMINISTRATION RECORDS,” and other “PERSONNEL RECORDS” items.",
+    "recordCopyAuthorizedToDestroyNote": "25 fiscal years after any manner of separation or termination of employment.",
+    "recordCopyLifeSpan": 25,
+    "id": "32a09e62-9a25-4d7c-9d44-ac07d25aeea8"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 20,
+    "scheduleItem": "GS1 20",
+    "title": "ENCUMBRANCE/CERTIFICATION FORWARD RECORDS",
+    "description": "This record series consists of reports and other documentation detailing funds that have been encumbered, but not yet spent, for a specific planned, approved expenditure. This series includes lists of encumbrances to be applied against certified forward money, i.e., money brought forward from the previous fiscal year for goods and services not received until the current fiscal year.",
+    "recordCopyAuthorizedToDestroyNote": "3 fiscal years.",
+    "recordCopyLifeSpan": 3,
+    "id": "efdca77f-781d-41b5-a954-03c05bed6adc"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 23,
+    "scheduleItem": "GS1 23",
+    "title": "INFORMATION REQUEST RECORDS",
+    "description": "This record series consists of correspondence and supporting documentation accumulated in answering inquiries from the public. The series may include requests for: inspection and/or copies of public records (public records requests), publications or services provided by the agency, confirmation of meeting or event times/dates/locations, information on outstanding liens, and general agency information (e.g., mission statement, telephone list, map/directions, employee directory, etc.).",
+    "recordCopyAuthorizedToDestroyNote": "1 fiscal year.",
+    "recordCopyLifeSpan": 1,
+    "id": "38cc3f71-28d8-47fc-a51b-be8fe0c85418"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 24,
+    "scheduleItem": "GS1 24",
+    "title": "EMPLOYMENT APPLICATION AND SELECTION RECORDS",
+    "description": "This record series consists of all records that document the selection process and justify the selection decision, including, but not limited to, the job opportunity announcement and any other recruitment efforts; position description, including the knowledge, skills, and abilities (KSAs) necessary to perform the job; applications and résumés for employment, including any demographic data provided by applicants; correspondence; credential documentation; testing/examination plans, documentation, and results; background investigation/screening documentation; pre-employment health examination records; reference checks; lists of eligible candidates; lists of applicants’ ratings or rankings; description of the selection process and selection techniques used; names and titles of all persons participating in the selection process; and other information that affects the selection decisions. Documentation (original or copies) regarding hired candidates should be transferred to the employee’s official personnel file. See Sections 110.211 and 110.213, Florida Statutes, governing recruitment and selection in state employment; Section 760.11, Florida Statutes, Administrative and civil remedies; construction (outlining discrimination grievance procedures, including for employment discrimination allegations); and Rules 60L-29 through 60L-40, Florida Administrative Code, Personnel Rules. See also “PERSONNEL RECORDS” items and “POSITION DESCRIPTION RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "4 anniversary years after personnel action provided any litigation is resolved.",
+    "recordCopyLifeSpan": null,
+    "id": "986c6a28-0b8d-454e-b117-9cd608030b66"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 25,
+    "scheduleItem": "GS1 25",
+    "title": "ADVERTISEMENTS: LEGAL",
+    "description": "This record series consists of advertisements that have appeared in newspapers or other publications or public media as stipulated in Chapter 50, Florida Statutes, Legal and Official Advertisements, or that have appeared in the Florida Administrative Register or Florida Administrative Weekly as stipulated in Section 120.525(1), Florida Statutes, Meetings, hearings, and workshops. The advertisements concern matters pertaining to the agency as well as any other legal advertisements which may directly or indirectly affect the agency, e.g., bid invitations for construction jobs, public hearings or notices, and public sales. A legal advertisement is frequently filed with the item to which it applies.",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years.",
+    "recordCopyLifeSpan": 5,
+    "id": "71ad2866-16d6-4312-b1f8-80c1829acb92"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 26,
+    "scheduleItem": "GS1 26",
+    "title": "OPINIONS: LEGAL",
+    "description": "This record series consists of written legal opinions issued by agency attorneys establishing policy or precedent and answering questions involving legal interpretation of Florida or federal law in relation to the agency’s functions, responsibilities, and authority. See also “LITIGATION CASE FILES” and “OPINIONS: LEGAL (SUPPORTING DOCUMENTS).” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "Permanent. State agencies should contact the State Archives of Florida for archival review after 5 years. Other agencies should ensure appropriate preservation of records.",
+    "recordCopyLifeSpan": null,
+    "id": "619734ea-089f-4165-9330-f29afb484b22"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 27,
+    "scheduleItem": "GS1 27",
+    "title": "LITIGATION CASE FILES",
+    "description": "This record series consists of legal documents, notes, reports, background material, summonses and other related records created or received in preparing for or engaging in litigation of legal disputes. See also “FINAL ORDERS RECORDS: INDEXED OR LISTED,” “FINAL ORDERS RECORDS: NOT INDEXED OR LISTED,” “FINAL ORDERS RECORDS: SUPPORTING DOCUMENTS,” “OPINIONS: LEGAL” and “OPINIONS: LEGAL (SUPPORTING DOCUMENTS).”",
+    "recordCopyAuthorizedToDestroyNote": "5 anniversary years after case closed or appeal process expired.",
+    "recordCopyLifeSpan": null,
+    "id": "1685d540-7958-40f1-8614-7549778045b4"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 28,
+    "scheduleItem": "GS1 28",
+    "title": "TELEPHONE CALL RECORDS",
+    "description": "This record series consists of logs or other documentation of telephone calls (landline or cellular) or facsimile transmissions (faxes) maintained in order to reconcile with telephone service bills/invoices or for general office administration purposes. The series does not include telephone messages.",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "3cf72988-9b15-4633-a887-bdf7fbd09cf0"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 29,
+    "scheduleItem": "GS1 29",
+    "title": "MAILING/CONTACT LISTS",
+    "description": "This record series consists of lists of U.S. mail or electronic mail/messaging contacts used in agency mail outs or other communications. Mailing/contact lists that fall under Section 283.55, Florida Statutes, Purging of publication mailing lists, must be updated and superseded every odd numbered year. See also “MAIL: REGISTERED AND CERTIFIED,” “MAIL: UNDELIVERABLE/RETURNED,” and “POSTAGE/SHIPPING RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "717ccc53-7f46-4aa3-bc8d-95fe035b8ede"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 30,
+    "scheduleItem": "GS1 30",
+    "title": "MANAGEMENT SURVEYS/STUDIES: INTERNAL",
+    "description": "This record series consists of raw data and work papers for surveys conducted by the agency to study management issues such as client/patron/employee satisfaction and service improvement. This may include survey/poll responses, tally sheets, suggestion box submissions, and other records related to the study of internal operations. This does not include reports prepared by consultants. The final compilation of the data may be produced as a report, which may be scheduled under a different record series depending on the nature and depth of the survey/study (for instance, “FEASIBILITY STUDY RECORDS,” “OPERATIONAL AND STATISTICAL REPORT RECORDS,” or “PROJECT FILES” items).",
+    "recordCopyAuthorizedToDestroyNote": "1 calendar year after completion of data collection or release of report, whichever is later.",
+    "recordCopyLifeSpan": null,
+    "id": "b2f8d9a3-f2f4-41e8-be52-10a74a050232"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 32,
+    "scheduleItem": "GS1 32",
+    "title": "MINUTES: OFFICIAL MEETINGS",
+    "description": "This record series consists of the official record of official meetings, defined in Section 286.011(1), Florida Statutes, Public meetings and records, as “All meetings of any board or commission of any state agency or authority or of any agency or authority of any county, municipal corporation, or political subdivision, except as otherwise provided in the Constitution, including meetings with or attended by any person elected to such board or commission, but who has not yet taken office, at which official acts are to be taken...” The series may include verbatim transcripts or minutes summarizing issues addressed, actions taken, and decisions made. The series may also include agendas and background materials used as reference documentation for agenda items; these should be included when they are necessary to understand the minutes. For documentation of the logistics/planning of the meetings such as venue information or directions, travel itineraries, and reservations and confirmations, use “ADMINISTRATIVE SUPPORT RECORDS.” See also “CABINET AFFAIRS FILES,” “MINUTES: OFFICIAL MEETINGS (PRELIMINARY/AUDIO RECORDINGS/VIDEO RECORDINGS),” “MINUTES: OFFICIAL MEETINGS (SPECIAL DISTRICTS/AGENCY SUPPORT ORGANIZATIONS/NON-POLICY ADVISORY BOARDS),” “MINUTES: OFFICIAL MEETINGS (SUPPORTING DOCUMENTS)” and “MINUTES: OTHER MEETINGS.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "Permanent. State agencies should contact the State Archives of Florida for archival review after 5 years. Other agencies should ensure appropriate preservation of records.",
+    "recordCopyLifeSpan": null,
+    "id": "d3a85d88-b624-4601-9bed-11840b8ea527"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 33,
+    "scheduleItem": "GS1 33",
+    "title": "MINUTES: OTHER MEETINGS",
+    "description": "This record series consists of minutes and all supporting documentation from meetings that are not official meetings as defined in Section 286.011(1), Florida Statutes, Public meetings and records. These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "1 anniversary year after date of meeting. State agencies must contact the State Archives of Florida for archival review before disposition of records. Other agencies should ensure appropriate preservation of records determined to have long-term historical value.",
+    "recordCopyLifeSpan": null,
+    "id": "a0929832-5fbc-4d63-9b9f-a78d66293898"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 34,
+    "scheduleItem": "GS1 34",
+    "title": "NEWS RELEASES",
+    "description": "This record series consists of news releases distributed by the agency. See also “PUBLIC INFORMATION FILES,” “PUBLICATION PRODUCTION RECORDS” and “TRANSITORY MESSAGES.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "90 days. State agencies must contact the State Archives of Florida for archival review before disposition of records. Other agencies should ensure appropriate preservation of records determined to have long-term historical value.",
+    "recordCopyLifeSpan": null,
+    "id": "09fa372a-a2e4-4f78-b83c-55f5a91bea1c"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 35,
+    "scheduleItem": "GS1 35",
+    "title": "PAYROLL RECORDS: POSTED",
+    "description": "This record series consists of any payroll records, in any format, posted to the employee's applicable retirement plan (plus indices, if applicable). The records are used to document payment for retirement or other purposes during an employee's duration of employment, and also list each rate of pay. Agencies should ensure that any records needed beyond the stated retention to calculate post-employment benefits are retained. See also “ATTENDANCE AND LEAVE RECORDS,” “SOCIAL SECURITY CONTROLLED SUMMARY RECORDS,” and other “PAYROLL RECORDS” items.",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years.",
+    "recordCopyLifeSpan": 5,
+    "id": "0423b023-4083-47c5-a4f0-f91f1c3cf987"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 38,
+    "scheduleItem": "GS1 38",
+    "title": "POSITION DESCRIPTION RECORDS",
+    "description": "This record series documents the specifically assigned duties and responsibilities for a particular position. Information in the records may include, but is not limited to, percentage breakdown of duties, job summary, essential job duties, job standards, salary or pay range, education and experience requirements, required licenses/certificates, essential skills and qualifications, essential physical skills, and working conditions. See also “EMPLOYMENT APPLICATION AND SELECTION RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "2 anniversary years after obsolete or superseded.",
+    "recordCopyLifeSpan": null,
+    "id": "d9a141a6-a399-4dc8-a1ad-eddd1b6bd0e4"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 40,
+    "scheduleItem": "GS1 40",
+    "title": "INVENTORY: AGENCY PROPERTY",
+    "description": "This record series consists of all information regarding the physical inventory of agency property, including a perpetual inventory of expendable parts and supplies that may be located in a central supply office for use by agency employees, as well as Fixed Assets/Operating Capital Outlay (O.C.O.) items requiring an identification number and tag. The series may also include copies of disposition documentation when the property or equipment is relocated, transferred, surplused, sold, scrapped, traded in, abandoned, stolen, cannibalized, or destroyed. Section 274.02, Florida Statutes, Record and inventory of certain property, requires an annual physical inventory of all O.C.O. property. See also “PROPERTY CONTROL RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "3 fiscal years.",
+    "recordCopyLifeSpan": 3,
+    "id": "6bb15501-6eea-463f-856e-b39fc7d48cd2"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 41,
+    "scheduleItem": "GS1 41",
+    "title": "PROPERTY TRANSFER RECORDS",
+    "description": "This record series documents the transfer of property or equipment that is relocated, transferred to another agency/office, surplused, sold, scrapped, traded in, abandoned, or stolen. This series does not include records documenting real property transfers. See also “INVENTORY: AGENCY PROPERTY” and “PROPERTY CONTROL RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "1 fiscal year provided an updated physical inventory has been completed.",
+    "recordCopyLifeSpan": 1,
+    "id": "94170b43-d0b7-44e8-bc88-7e99708e8235"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 42,
+    "scheduleItem": "GS1 42",
+    "title": "PURCHASING RECORDS",
+    "description": "This record series consists of copies of purchase orders that are retained by the originating office, while the record copy is sent to the Purchasing/Business Office and another copy is sent to the appropriate vendor for action. The series may include, but is not limited to, copies of requisitions, copies of receiving reports, and a log of outstanding and paid requisitions and purchase orders used for cross-referencing purposes. See also “DISBURSEMENT RECORDS: DETAIL.”",
+    "recordCopyAuthorizedToDestroyNote": "Retain until obsolete, superseded, or administrative value is lost.",
+    "recordCopyLifeSpan": null,
+    "id": "d4b4b9d8-9095-453f-9b1f-dd9819a5e905"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 45,
+    "scheduleItem": "GS1 45",
+    "title": "RECORDS DISPOSITION DOCUMENTATION",
+    "description": "This record series documents the agency’s disposition of its public records. Agencies are required to maintain internal documentation of records dispositions pursuant to Rule 1B-24.003(9)(d), Florida Administrative Code, which states in part that, “For each record series being disposed of, agencies shall identify and document the following: 1. Records retention schedule number; 2. Item number; 3. Record series title; 4. Inclusive dates of the records; 5. Volume in cubic feet for paper records; for electronic records, record the number of bytes and/or records and/or files if known, or indicate that the disposed records were in electronic form; and 6. Disposition action (manner of disposition) and date.” Disposition may include either destruction of records or transfer of legal custodianship of the records to another agency. See also “RECORDS MANAGEMENT COMPLIANCE STATEMENTS” and “RECORDS RETENTION SCHEDULES: AGENCY SPECIFIC.”",
+    "recordCopyAuthorizedToDestroyNote": "Permanent.",
+    "recordCopyLifeSpan": null,
+    "id": "c1cb3fd7-a982-4a98-9359-365297eca0df"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 47,
+    "scheduleItem": "GS1 47",
+    "title": "MAIL: REGISTERED AND CERTIFIED",
+    "description": "This record series consists of receipts for registered or certified mail sent out by an agency as well as undeliverable registered or certified mail items returned by the post office for any reason. This record is usually filed with the agency’s copy of the item mailed. See also “MAIL: UNDELIVERABLE/RETURNED,” “MAILING/CONTACT LISTS,” and “POSTAGE/SHIPPING RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "1 fiscal year.",
+    "recordCopyLifeSpan": 1,
+    "id": "d857fc4b-b15d-40b5-939e-6f348a93b44c"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 49,
+    "scheduleItem": "GS1 49",
+    "title": "SALARY COMPARISON REPORTS",
+    "description": "This record series consists of reports compiled for reference purposes to provide employees with a method of comparing their job descriptions, educational requirements, and salaries with similar positions within the agency and in outside agencies. See also “POSITION DESCRIPTION RECORDS” and “SALARY SCHEDULES.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "1 fiscal year. State agencies must contact the State Archives of Florida for archival review before disposition of records. Other agencies should ensure appropriate preservation of records determined to have long-term historical value.",
+    "recordCopyLifeSpan": 1,
+    "id": "583e0e2f-5f67-4b9e-a1fe-6b92c3c6e11a"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 50,
+    "scheduleItem": "GS1 50",
+    "title": "AUTOMATED ACCOUNTING SYSTEM REPORTS",
+    "description": "This record series consists of reports generated by an agency’s automated accounting system, such as SAMAS (State Automated Management Accounting System), FLAIR (Florida Accounting & Information Resource), Aspire, or other automated accounting system. Included are such reports as a log of all updated transactions entered into the system and a financial statement for each month for all divisions and/or bureaus of the agency. See also “DISBURSEMENT RECORDS: DETAIL,” “DISBURSEMENT RECORDS: SUMMARY,” “RECEIPT/REVENUE RECORDS: DETAIL,” “RECEIPT/REVENUE RECORDS: SUMMARY,” and “FINANCIAL HISTORY SUMMARY RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "3 fiscal years.",
+    "recordCopyLifeSpan": 3,
+    "id": "e788ed75-4d87-4a01-a156-791e2f7784a4"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 52,
+    "scheduleItem": "GS1 52",
+    "title": "TRAVEL RECORDS",
+    "description": "This record series consists of copies of travel vouchers and related records detailing expenses incurred during travel and the authorized per diem rate indicated or the amount of reimbursement based on the actual cost of lodging and meal allowances and other expenses. Copies of travel authorizations, itineraries and other supporting documents may also be included. See also “DISBURSEMENT RECORDS: DETAIL.”",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years.",
+    "recordCopyLifeSpan": 5,
+    "id": "a8445461-ce6e-463e-a0ad-7c2ad1b6c226"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 54,
+    "scheduleItem": "GS1 54",
+    "title": "VISITOR/ENTRY RECORDS",
+    "description": "This record series consists of logs or other records documenting visitors’ and employees' entry into an agency’s building or other facility. The records may include such information as time, date, name, signature, reason for visit, and location and/or person visited. See also “ACCESS CONTROL RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "30 days.",
+    "recordCopyLifeSpan": null,
+    "id": "29d5e960-1c2a-4101-b735-b53a8a6ec5b7"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 55,
+    "scheduleItem": "GS1 55",
+    "title": "WORKERS' COMPENSATION RECORDS",
+    "description": "This record series documents employee injuries or illness where a Workers’ Compensation claim is made. The series consists of the first report of injury forms and any other employer's reports and associated documentation, including, but not limited to, Occupational Safety and Health Administration (OSHA) Form 300 and 300A, Log and Summary of Work-Related Injuries and Illnesses; OSHA Form 301, Injury and Illness Incident Report; any equivalent or predecessor OSHA forms; and state form DFS-F2-DWC-1 (First Report of Injury or Illness) or equivalent or predecessor state forms. Retention is pursuant to OSHA’s recordkeeping rule, 29CFR1904.33, Recording and Reporting Occupational Injuries and Illnesses – Retention and Updating. See also “INJURY/ILLNESS RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "5 calendar years.",
+    "recordCopyLifeSpan": null,
+    "id": "2c238ec6-4ec7-4523-a743-85e113b119bf"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 56,
+    "scheduleItem": "GS1 56",
+    "title": "AUDITS: INDEPENDENT",
+    "description": "This record series consists of reports, including any appropriate financial statements, issued by an independent auditor to establish the position of the audited agencies against their performance standards. The audits may be instigated by any agency, organization, or internal management. These records are created pursuant to Section 11.45, Florida Statutes, Definitions; duties; authorities; reports; rules, and/or Section 215.97, Florida Statutes, Florida Single Audit Act. See also “AUDITS: AUDITOR GENERAL,” “AUDITS: INTERNAL,” “AUDITS: STATE/FEDERAL,” and “AUDITS: SUPPORTING DOCUMENTS.”",
+    "recordCopyAuthorizedToDestroyNote": "10 fiscal years after audit report release date.",
+    "recordCopyLifeSpan": 10,
+    "id": "5b1ffd7c-bd38-4dfe-b2fa-d6345bbafecb"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 57,
+    "scheduleItem": "GS1 57",
+    "title": "AUDITS: SUPPORTING DOCUMENTS",
+    "description": "This record series consists of the documentation and supporting documents used to develop audit reports, including all bills, accounts, transaction records, reports or other related documentation. The audits may be instigated by any agency, organization, or internal management. See also “AUDITS: AUDITOR GENERAL,” “AUDITS: INDEPENDENT,” “AUDITS: INTERNAL,” and “AUDITS: STATE/FEDERAL.”",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years after audit report release date.",
+    "recordCopyLifeSpan": 5,
+    "id": "5911304c-db0d-485c-99cc-9116f4d00baf"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 58,
+    "scheduleItem": "GS1 58",
+    "title": "BUDGET RECORDS: APPROVED ANNUAL BUDGET",
+    "description": "This record series consists of the agency’s approved annual budget and its amendments. This series does NOT include working papers, agency staff analyses, drafts, budget requests, or other supporting documentation relating to the development, modification, or implementation of an agency’s final approved budget. See also “BUDGET RECORDS: SUPPORTING DOCUMENTS.” These records may have archival value.",
+    "recordCopyAuthorizedToDestroyNote": "Permanent. State agencies should contact the State Archives of Florida for archival review after 5 years. Other agencies should ensure appropriate preservation of records.",
+    "recordCopyLifeSpan": null,
+    "id": "c7be971c-5d84-4b45-b424-ab7a2fddca91"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 64,
+    "scheduleItem": "GS1 64",
+    "title": "CONTRACTS/LEASES/AGREEMENTS: CAPITAL IMPROVEMENT/REAL PROPERTY",
+    "description": "This record series consists of legal documents, correspondence, reports, and other records documenting the negotiation, fulfillment, and termination of capital improvement or real property contracts, leases, or agreements to which the agency is a party, including contracts, leases, or agreements with architects, engineers, builders, and construction companies. “Capital Improvements” shall mean improvements to real property (land, buildings, including appurtenances, fixtures and fixed equipment, structures, etc.) that add to the value and extend the useful life of the property, including construction of new structures, replacement or rehabilitation of existing structures (e.g., major repairs such as roof replacement), or removal of closed structures. “Real Property” means land, buildings, and fixtures. The terms “land,” “real estate,” “realty,” and “real property” may be used interchangeably. See also “CONTRACTS/LEASES/AGREEMENTS: NON-CAPITAL IMPROVEMENT.”",
+    "recordCopyAuthorizedToDestroyNote": "10 fiscal years after completion or termination of contract/lease/agreement.",
+    "recordCopyLifeSpan": 10,
+    "id": "74c02137-b033-4a32-b7be-1d4150c742f1"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 65,
+    "scheduleItem": "GS1 65",
+    "title": "CONTRACTS/LEASES/AGREEMENTS: NON-CAPITAL IMPROVEMENT",
+    "description": "This record series consists of legal documents, correspondence, reports, and other records documenting the negotiation, fulfillment, and termination of contracts, leases, or agreements to which the agency is a party other than those involving capital improvement/real property. In addition, it includes the various contracts, leases or agreements entered into for goods and services, such as contracted legal services, the purchase of gas and fuel oil, annual purchases of inventory-maintained items, and customer/client agreements. See also “CONTRACTS/LEASES/AGREEMENTS: CAPITAL IMPROVEMENT/REAL PROPERTY” and “BARGAINING RECORDS.”",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years after completion or termination of contract/lease/agreement.",
+    "recordCopyLifeSpan": 5,
+    "id": "56edf9d3-2c40-4774-b351-ccfc64fa1ade"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 66,
+    "scheduleItem": "GS1 66",
+    "title": "PERSONNEL RECORDS: OPS/VOLUNTEER/INTERN/TEMPORARY EMPLOYMENT",
+    "description": "This record series consists of all personnel information relating to each Other Personnel Services (OPS), volunteer, intern, or temporary employee within each agency. The series may include, but is not limited to, employment applications, résumés, personnel action reports, correspondence, oaths of loyalty, fingerprints, job-related medical examination reports, performance evaluation reports, workers’ compensation reports, copies of I-9 forms (Department of Homeland Security, U.S. Citizenship and Immigration Services, Employment Eligibility Verification form), benefits records, work schedules/assignments, training records, emergency contact information, and other related materials. Temporary employees may include personnel referred by a local employment agency. Section 110.201, Florida Statutes, and Rule 60L-30, Florida Administrative Code, require state agency personnel officers to institute uniform personnel rules and procedures and to determine what records are filed in the personnel file. See also “DRUG TEST CASE FILES,” “EMPLOYMENT APPLICATION AND SELECTION RECORDS,” “EMPLOYMENT ELIGIBILITY VERIFICATION FORMS,” “STAFF ADMINISTRATION RECORDS,” and other “PERSONNEL RECORDS” items.",
+    "recordCopyAuthorizedToDestroyNote": "3 fiscal years after any manner of separation or termination of employment.",
+    "recordCopyLifeSpan": 3,
+    "id": "ce09f344-d8fc-427b-a83c-0251eb1fa626"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 67,
+    "scheduleItem": "GS1 67",
+    "title": "FINAL ORDERS RECORDS: INDEXED OR LISTED",
+    "description": "This record series consists of all final agency orders required to be indexed or listed pursuant to Section 120.53(1)(a), Florida Statutes, along with any material incorporated by reference, a current final orders hierarchical subject matter index or database, and a list of all final orders required to be listed pursuant to Section 120.53(1)(a)3, Florida Statutes. Agency orders that must be indexed per Section 120.53(1)(a)2.c, Florida Statutes, are those resulting from a proceeding under Sections 120.56, 120.57, 120.573, or 120.574, Florida Statutes; those rendered pursuant to Section 120.57(4), Florida Statutes, that contain a statement of agency policy that may be the basis of future agency decisions or that may otherwise contain a statement of precedential value; and those that are declaratory statements. Agency orders that must be listed are those rendered pursuant to Section 120.57(4), Florida Statutes, that have been excluded from the indexing requirement because they do not contain statements of agency policy or precedential value. “Final order” is defined in Section 120.52, Florida Statutes, as, “a written final decision which results from a proceeding under s. 120.56, s. 120.565, s. 120.569, s. 120.57, s. 120.573, or s. 120.574, which is not a rule, and which is not excepted from the definition of a rule, and which has been filed with the agency clerk, and includes final agency actions which are affirmative, negative, injunctive, or declaratory in form. A final order includes all materials explicitly adopted in it. The clerk shall indicate the date of filing on the order.” Permanent retention is pursuant to Section 119.021(3), Florida Statutes, which requires permanent retention of final orders that must be indexed or listed. See also “FINAL ORDERS RECORDS: NOT INDEXED OR LISTED,” “FINAL ORDERS RECORDS: SUPPORTING DOCUMENTS,” “LITIGATION CASE FILES” and “MINUTES: OFFICIAL MEETINGS.” For Chapter 162, Florida Statutes, proceedings, see “CODE ENFORCEMENT HEARING CASE FILES.”",
+    "recordCopyAuthorizedToDestroyNote": "Permanent.",
+    "recordCopyLifeSpan": null,
+    "id": "8a25243a-b2e2-41b1-8e6f-38da0f42b853"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 68,
+    "scheduleItem": "GS1 68",
+    "title": "RECORDS RETENTION SCHEDULES: AGENCY SPECIFIC",
+    "description": "This record series consists of copies of records retention schedules approved by the Department of State, Records Management Program for records that are specific to an individual agency’s programs and activities and are not covered by a general records retention schedule. Agency-specific retention schedules are established pursuant to Rule 1B-24.003(1)-(8), Florida Administrative Code, Section 119.021(2)(a), Florida Statutes, and Section 257.36(6), Florida Statutes. See also “RECORDS MANAGEMENT COMPLIANCE STATEMENTS” and “RECORDS DISPOSITION DOCUMENTATION.”",
+    "recordCopyAuthorizedToDestroyNote": "Permanent.",
+    "recordCopyLifeSpan": null,
+    "id": "402cb818-4357-47f8-ae2e-4fd12d84aadc"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 70,
+    "scheduleItem": "GS1 70",
+    "title": "BID RECORDS: CAPITAL IMPROVEMENT SUCCESSFUL BIDS",
+    "description": "This record series documents the processing and letting of capital improvement successful bids including, but not limited to, legal advertisements, “Requests for Proposals,” “Requests for Qualifications,” “Letters of Interest,” “Invitations to Bid,” “Invitations to Negotiate,” technical specifications, correspondence, bid tabulations, and bid responses. “Capital Improvements” shall mean improvements to real property (land, buildings, including appurtenances, fixtures and fixed equipment, structures, etc.) that add to the value and extend the useful life of the property, including construction of new structures, replacement or rehabilitation of existing structures (e.g., major repairs such as roof replacement), or removal of closed structures. See also “BID RECORDS: CAPITAL IMPROVEMENT UNSUCCESSFUL BIDS” and “BID RECORDS: NON-CAPITAL IMPROVEMENT.”",
+    "recordCopyAuthorizedToDestroyNote": "Retain as long as related CONTRACTS/LEASES/AGREEMENTS: CAPITAL IMPROVEMENT/REAL PROPERTY file.",
+    "recordCopyLifeSpan": null,
+    "id": "7218e54b-4016-4f6f-b170-626b17d1c8ee"
+  },
+  {
+    "scheduleNumber": "GS1",
+    "itemNumber": 71,
+    "scheduleItem": "GS1 71",
+    "title": "BID RECORDS: CAPITAL IMPROVEMENT UNSUCCESSFUL BIDS",
+    "description": "This record series documents the processing and letting of capital improvement unsuccessful bids including, but not limited to, legal advertisements, “Requests for Proposals,” “Requests for Qualifications,” “Letters of Interest,” “Invitations to Bid,” “Invitations to Negotiate,” technical specifications, correspondence, bid tabulations, and bid responses. “Capital Improvements” shall mean improvements to real property (land, buildings, including appurtenances, fixtures and fixed equipment, structures, etc.) that add to the value and extend the useful life of the property, including construction of new structures, replacement or rehabilitation of existing structures (e.g., major repairs such as roof replacement), or removal of closed structures. This series also includes records of bid projects canceled prior to being awarded and projects awarded but canceled prior to any work being done. See also “BID RECORDS: CAPITAL IMPROVEMENT SUCCESSFUL BIDS” and “BID RECORDS: NON-CAPITAL IMPROVEMENT.”",
+    "recordCopyAuthorizedToDestroyNote": "5 fiscal years after awarded or bid project canceled.",
+    "recordCopyLifeSpan": 5,
+    "id": "690fb3de-6312-4b85-be16-96e27f02b733"
+  }
+]
