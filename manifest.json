@@ -1,11 +1,17 @@
 {
-  "short_name": "Okaloosa Retention Destruction",
+  "short_name": "DocuRetain",
   "name": "Okaloosa Retention Destruction App",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+    {
+      "src":"retentiondestruction-x512.png",
+      "sizes":"512x512",
+      "type":"image/png",
+      "purpose":"any maskable"
     }
   ],
   "start_url": "./index.html",
